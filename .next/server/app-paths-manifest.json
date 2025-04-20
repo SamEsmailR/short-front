@@ -1,0 +1,11 @@
+{
+  "/auth/register/page": "app/auth/register/page.js",
+  "/dashboard/recruiter/jobs/page": "app/dashboard/recruiter/jobs/page.js",
+  "/dashboard/recruiter/jobs/create/page": "app/dashboard/recruiter/jobs/create/page.js",
+  "/dashboard/applicant/jobs/[id]/page": "app/dashboard/applicant/jobs/[id]/page.js",
+  "/dashboard/applicant/profile/page": "app/dashboard/applicant/profile/page.js",
+  "/dashboard/recruiter/jobs/[id]/page": "app/dashboard/recruiter/jobs/[id]/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/applicant/jobs/page": "app/dashboard/applicant/jobs/page.js",
+  "/dashboard/recruiter/analytics/page": "app/dashboard/recruiter/analytics/page.js"
+}
